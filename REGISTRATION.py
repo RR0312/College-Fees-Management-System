@@ -10,11 +10,11 @@ from tkinter import Text,Tk
 #import TkTreectrl as treect
 
 today=date.today()
-print ('software is runing......')
+print ('software is running......')
 firstw=Tk()
-firstw.title("Panipat Institute of Engneering")
+firstw.title("Panipat Institute of Engineering")
 firstw.geometry("1600x1000+0+0")
-label=Label(text="Panipat Institute of Engneering",font=("times new roman",35),bg="MediumOrchid2")
+label=Label(text="Panipat Institute of Engineering",font=("times new roman",35),bg="MediumOrchid2")
 label.pack(side=TOP ,fill=X)
 user1=Label(text="USERNAME",font=("arial",23))
 user1.place(x=610,y=120)
